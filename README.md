@@ -2,10 +2,15 @@
 
 Lista zagadnień na egzamin magisterski dla kierunku Informatyka
 1.Ciągi liczb rzeczywistych. Zbieżność ciągu.
-2.Macierze. Podstawowe operacje na macierzach. Rząd i wyznacznik macierzy. 
+
+2.Macierze. Podstawowe operacje na macierzach. Rząd i wyznacznik macierzy.
+
 3.Rozwiązywanie układów równań liniowych.
+
 4.Odwzorowania liniowe i ich związek z macierzami
+
 5.Rachunek zdań. Tautologie.
+
 6.Indukcja matematyczna.
 7.Permutacje, wariacje i kombinacje.
 8.Klasyczna definicja prawdopodobieństwa. Prawdopodobieństwo geometryczne.
